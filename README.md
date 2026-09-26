@@ -124,8 +124,8 @@ Each project follows a standard ML pipeline:
 
 ## 📬 Connect With Me
 
-* GitHub: (Add your profile link)
-* LinkedIn: (Add your LinkedIn link)
+* GitHub: https://github.com/badgujarram3/Machine-Learning-Projects
+* LinkedIn: https://www.linkedin.com/in/ram-badgujar-5a8b48335/?isSelfProfile=true
 
 ---
 
