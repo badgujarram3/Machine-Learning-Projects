@@ -120,7 +120,7 @@ creditwise-loan-approval/
 
 ## 📬 Connect With Me
 
-* GitHub: https://github.com/badgujarram3/loan-approval-prediction-ml
+* GitHub: https://github.com/badgujarram3
 * LinkedIn: https://www.linkedin.com/in/ram-badgujar-5a8b48335/?isSelfProfile=true
 
 ---
